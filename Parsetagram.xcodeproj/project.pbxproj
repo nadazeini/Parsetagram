@@ -12,6 +12,7 @@
 		B85CA4EDE74086D0C680AF16 /* Pods_Parsetagram_ParsetagramUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F531055EDE934EB5AF7AFBD /* Pods_Parsetagram_ParsetagramUITests.framework */; };
 		FAD5E27324248F4F00E34219 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD5E27224248F4F00E34219 /* LoginViewController.swift */; };
 		FAD5E27524248F5A00E34219 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD5E27424248F5A00E34219 /* FeedViewController.swift */; };
+		FAD5E27724249AF000E34219 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD5E27624249AF000E34219 /* CameraViewController.swift */; };
 		FAE1A452242476E70080BA2E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE1A451242476E70080BA2E /* AppDelegate.swift */; };
 		FAE1A454242476E70080BA2E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE1A453242476E70080BA2E /* SceneDelegate.swift */; };
 		FAE1A459242476E70080BA2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAE1A457242476E70080BA2E /* Main.storyboard */; };
@@ -49,6 +50,7 @@
 		DFED66562A95EFBBE2026F17 /* Pods-ParsetagramTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ParsetagramTests.release.xcconfig"; path = "Target Support Files/Pods-ParsetagramTests/Pods-ParsetagramTests.release.xcconfig"; sourceTree = "<group>"; };
 		FAD5E27224248F4F00E34219 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		FAD5E27424248F5A00E34219 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		FAD5E27624249AF000E34219 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		FAE1A44E242476E70080BA2E /* Parsetagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parsetagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAE1A451242476E70080BA2E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAE1A453242476E70080BA2E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 				FAE1A45F242476EA0080BA2E /* Info.plist */,
 				FAD5E27224248F4F00E34219 /* LoginViewController.swift */,
 				FAD5E27424248F5A00E34219 /* FeedViewController.swift */,
+				FAD5E27624249AF000E34219 /* CameraViewController.swift */,
 			);
 			path = Parsetagram;
 			sourceTree = "<group>";
@@ -411,6 +414,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAD5E27324248F4F00E34219 /* LoginViewController.swift in Sources */,
+				FAD5E27724249AF000E34219 /* CameraViewController.swift in Sources */,
 				FAE1A452242476E70080BA2E /* AppDelegate.swift in Sources */,
 				FAD5E27524248F5A00E34219 /* FeedViewController.swift in Sources */,
 				FAE1A454242476E70080BA2E /* SceneDelegate.swift in Sources */,
